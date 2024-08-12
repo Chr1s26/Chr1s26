@@ -2,7 +2,7 @@
 ![github-header-image (6)](https://github.com/user-attachments/assets/104e3671-9455-48a5-9297-05b98fb17573)
 
 
-<h1 align="center">Hi 👋, I'm Htet Kyaw Swar Linn</h1>
+
 <h3 align="center">"Java Enthusiast & Backend Innovator | Engineering Tomorrow's Solutions in Computer Engineering"</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/698857/screenshots/2956148/final-animation.gif">
 
