@@ -8,11 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chr1s26&label=Profile%20views&color=0e75b6&style=flat" alt="chr1s26" /> </p>
 
-- 🌱 I’m currently learning **Java, Matlab, Python, JavaScript, PHP**
-
 - 📫 How to reach me **htetkyawswarlinn44@gmail.com**
-
-- ⚡ Fun fact **I speak fluent Java, but my coffee is still a work in progress!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
